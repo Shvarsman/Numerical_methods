@@ -4,7 +4,7 @@
 <body>
     <h2>Метод дихотомии</h2>
     <h3>График</h3>
-    <image src="./images/func.png" alt="График, который использовался для отделения корня. Отрезок отделенного корня."></image>
+    <image src="/images/func.png" alt="График, который использовался для отделения корня. Отрезок отделенного корня."></image>
     <h3>Алгоритм</h3>
     <p>Пусть функция f непрерывна на отрезке [a,b]. Поделим отрезок [a,b] пополам. Получим точку с = (a+b)/2 и два отрезка [a,c], [c,b].</p>
     <ul>
@@ -157,6 +157,7 @@
     </p>
     <h2>Источники</h2>
     <ul>
+        <li>График - <a href=https://www.desmos.com/calculator?lang=ru>desmos.com</a></li>
         <li>Метод дихотомии - <a href=http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D1%8B_%D0%B4%D0%B8%D1%85%D0%BE%D1%82%D0%BE%D0%BC%D0%B8%D0%B8>machinelearning.ru</a></li>
         <li>Остальные методы - конспект</li>
     </ul>
