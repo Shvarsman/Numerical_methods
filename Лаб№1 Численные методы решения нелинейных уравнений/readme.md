@@ -25,7 +25,7 @@
             <th>b<sub>k</sub>-a<sub>k</sub></th>
         </tr>
         <tr>
-            <td align="center">0</td>
+            <td align="center">1</td>
             <td align="center">0</td>
             <td align="center">2</td>
             <td align="center">-0.585786</td>
@@ -33,7 +33,7 @@
             <td align="center">2</td>
         </tr>
         <tr>
-            <td align="center">1</td>
+            <td align="center">2</td>
             <td align="center">0</td>
             <td align="center">1</td>
             <td align="center">-0.585786</td>
@@ -41,7 +41,7 @@
             <td align="center">1</td>
         </tr>
         <tr>
-            <td align="center">2</td>
+            <td align="center">3</td>
             <td align="center">0.5</td>
             <td align="center">1</td>
             <td align="center">-0.174026</td>
@@ -49,7 +49,7 @@
             <td align="center">0.5</td>
         </tr>
         <tr>
-            <td align="center">3</td>
+            <td align="center">4</td>
             <td align="center">0.5</td>
             <td align="center">0.75</td>
             <td align="center">-0.174026</td>
@@ -57,7 +57,7 @@
             <td align="center">0.25</td>
         </tr>
         <tr>
-            <td align="center">4</td>
+            <td align="center">5</td>
             <td align="center">0.625</td>
             <td align="center">0.75</td>
             <td align="center">-0.00174106</td>
@@ -65,7 +65,7 @@
             <td align="center">0.125</td>
         </tr>
         <tr>
-            <td align="center">5</td>
+            <td align="center">6</td>
             <td align="center">0.625</td>
             <td align="center">0.6875</td>
             <td align="center">-0.00174106</td>
@@ -73,7 +73,7 @@
             <td align="center">0.0625</td>
         </tr>
         <tr>
-            <td align="center">6</td>
+            <td align="center">7</td>
             <td align="center">0.625</td>
             <td align="center">0.65625</td>
             <td align="center">-0.00174106</td>
@@ -115,7 +115,7 @@
             <th align="center">|x<sub>k</sub> - x<sub>k-1</sub>|</th>
         </tr>
         <tr>
-            <td align="center">0</td>
+            <td align="center">1</td>
             <td align="center">0.640625</td>
             <td align="center">0.0143407</td>
             <td align="center">0.640625</td>
@@ -124,7 +124,7 @@
             <td align="center">0.113657</td>
         </tr>
         <tr>
-            <td align="center">1</td>
+            <td align="center">2</td>
             <td align="center">0.626284</td>
             <td align="center">0.000106086</td>
             <td align="center">0.626284</td>
@@ -133,7 +133,7 @@
             <td align="center">0.000747654</td>
         </tr>
         <tr>
-            <td align="center">2</td>
+            <td align="center">3</td>
             <td align="center">0.626178</td>
             <td align="center">1.57818 * 10<sup>-6</sup></td>
             <td align="center">0.626177</td>
@@ -142,7 +142,7 @@
             <td align="center">4.37773 * 10<sup>-5</sup></td>
         </tr>
         <tr>
-            <td align="center">3</td>
+            <td align="center">4</td>
             <td align="center">0.626177</td>
             <td align="center">2.3566 * 10<sup>-8</sup></td>
             <td align="center"> - </td>
